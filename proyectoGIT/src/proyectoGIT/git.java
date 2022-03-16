@@ -7,6 +7,7 @@ public class git {
 		
 		System.out.println("Adiós mundo");
 		int mes;
+		double a;
 		
 	}
 }
