@@ -5,9 +5,10 @@ public class git {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("Adiós mundo");
+		System.out.println("AdiÃ³s mundo");
 		int mes;
 		double a;
+		int b;
 		
 	}
 }
